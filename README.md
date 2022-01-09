@@ -1,1 +1,1 @@
-# reversi-
+# reversiを作りたい
